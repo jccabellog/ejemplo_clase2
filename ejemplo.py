@@ -1,5 +1,5 @@
 
-NUMERO=200 
+NUMERO=200 #Las constantes van en mayusculas
 EDAD_ADULTA=18
 nombre="Juan Carlos Cabello"
 nombre2="Katty Brevis"
